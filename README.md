@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60%"/> <br>
+<img src="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="40%"/><br> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedSobhy&style=flat&color=blue)
