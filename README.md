@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60%"/> <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Sobhy-M&style=flat&color=blue)
+
 [![LinkedIn](https://img.shields.io/badge/Ahmed_Sobhy-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmedsobhy2)
 
 </div>
