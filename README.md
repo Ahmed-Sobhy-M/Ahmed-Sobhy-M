@@ -2,8 +2,9 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60%"/> <br>
 
+<h1 align="center">Hey👋, I'm Ahmed Sobhy</h1>
+<h2 align="center">Data Analyst</h2>
 
-[![LinkedIn](https://img.shields.io/badge/Ahmed_Sobhy-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmedsobhy2)
 
 </div>
 
@@ -21,31 +22,26 @@ Hi, I'm **Ahmed Sobhy**
 
 ---
 
-## 🛠️ Tools & Technologies
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=database&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat&logo=plotly&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 
----
+## 💻 Tech Stack:
+### 🛠️ Tools:
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-F2C811?style=for-the-badge&logo=Excel&logoColor=white)
 
-## 💻 Skills Overview
+### 🧠 Programming languages & skills:
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+ ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+ ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-```python
-class DataAnalyst:
+  <img src="https://img.shields.io/badge/Database-ff8c00?style=for-the-badge" />
 
-    def __init__(self):
-        self.tools = ["Power BI", "Excel", "Tableau"]
-        self.skills = ["Data Cleaning", "EDA", "Data Visualization", "Dashboarding"]
-        self.languages = ["Python", "SQL"]
-        self.libraries = ["Pandas", "NumPy", "Matplotlib", "Seaborn"]
+  <hr/>
 
 
-    def say_hi(self):
-        print("Turning data into insights 🚀")
+ ## 📫 Contact me:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedsobhy2)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedsobhymo114@gmail.com)
