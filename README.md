@@ -5,6 +5,9 @@
 <h1 align="center">Hey👋, I'm Ahmed Sobhy</h1>
 <h2 align="center">Data Analyst</h2>
 
+  <p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Sobhy-M&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Sobhy-M" /> 
+</p>
 
 </div>
 
